@@ -4,7 +4,6 @@
 I am a 19yo University Student in Japan.
 - Learning Computer Science in University
 - Currently learning JavaScript and Common-Lisp
-- Intrested in 
 
 ---
 
