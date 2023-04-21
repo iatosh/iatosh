@@ -1,7 +1,7 @@
 ## 👋 Hi
 
 ## 👨‍💻 About Me:
-I am a 19yo University Student in Japan.
+I'm a 20yo University Student in Japan.
 - Learning Computer Science in University
 - Currently learning JavaScript and Common-Lisp
 
