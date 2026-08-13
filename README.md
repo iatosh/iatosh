@@ -15,8 +15,4 @@
     alt="Most used languages, generated daily by lowlighter/metrics">
   <img src="metrics-right.svg" align="right" width="48%"
     alt="Isometric commit calendar for the past six months">
-<<<<<<< Updated upstream
 </p>
-=======
-</p>
->>>>>>> Stashed changes
