@@ -1,5 +1,7 @@
-<img src="made-with-ditherpress.webp" width="100%"
-     alt="A dithered loop, made with ditherpress">
+<p align="center">
+  <img src="made-with-ditherpress.webp" width="830"
+    alt="A dithered portrait of Satoshi, made with ditherpress">
+</p>
 <!-- 340px wide, ordered dither, 68 frames. github.com/iatosh/ditherpress -->
 
 ### Hi, I'm Satoshi 👋
@@ -11,8 +13,9 @@
 - 🌏 **Languages:** 日本語 / English / 中文
 
 <p align="center">
-  <img src="metrics-left.svg" align="left" width="48%"
+  <img src="metrics-left.svg" align="top" width="408"
     alt="Most used languages, generated daily by lowlighter/metrics">
-  <img src="metrics-right.svg" align="right" width="48%"
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="metrics-right.svg" align="top" width="408"
     alt="Isometric commit calendar for the past six months">
 </p>
