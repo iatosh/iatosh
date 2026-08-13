@@ -4,7 +4,7 @@
 </p>
 <!-- 340px wide, ordered dither, 68 frames. github.com/iatosh/ditherpress -->
 
-### Hi, I'm Satoshi 👋
+### Hi there 👋
 
 - 🧠 **Research:** representation learning for biosignals, especially electroencephalogram
 - 🔬 **Lab:** Toshihisa Tanaka Lab, Tokyo University of Agriculture and Technology
@@ -13,9 +13,9 @@
 - 🌏 **Languages:** 日本語 / English / 中文
 
 <p align="center">
-  <img src="metrics-left.svg" align="top" width="408"
+  <img src="metrics-left.svg" align="top" width="48%"
     alt="Most used languages, generated daily by lowlighter/metrics">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="metrics-right.svg" align="top" width="408"
+  <img src="metrics-right.svg" align="top" width="48%"
     alt="Isometric commit calendar for the past six months">
 </p>
