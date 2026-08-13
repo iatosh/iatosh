@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="made-with-ditherpress.webp" width="830"
+  <img src="made-with-ditherpress.webp" width="100%"
     alt="A dithered portrait of Satoshi, made with ditherpress">
 </p>
 <!-- 340px wide, ordered dither, 68 frames. github.com/iatosh/ditherpress -->
