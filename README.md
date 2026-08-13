@@ -10,4 +10,7 @@
 - 🎤 **Elsewhere:** a cappella and beatbox
 - 🌏 **Languages:** 日本語 / English / 中文
 
-<img src="metrics.svg" width="100%" alt="">
+<p align="center">
+  <img src="github-metrics-left.svg" width="48%" />
+  <img src="github-metrics-right.svg" width="48%" />
+</p>
