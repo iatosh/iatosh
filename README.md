@@ -11,6 +11,12 @@
 - 🌏 **Languages:** 日本語 / English / 中文
 
 <p align="center">
-  <img src="github-metrics-left.svg" width="48%" />
-  <img src="github-metrics-right.svg" width="48%" />
+  <img src="metrics-left.svg" align="left" width="48%"
+    alt="Most used languages, generated daily by lowlighter/metrics">
+  <img src="metrics-right.svg" align="right" width="48%"
+    alt="Isometric commit calendar for the past six months">
+<<<<<<< Updated upstream
 </p>
+=======
+</p>
+>>>>>>> Stashed changes
